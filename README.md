@@ -1,2 +1,2 @@
 # swift-ios-sdk
-Privacy tool SDK for iOS.
+Privacy tools for Swift iOS by Safe.
